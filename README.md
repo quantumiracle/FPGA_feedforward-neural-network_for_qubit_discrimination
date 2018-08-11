@@ -1,4 +1,5 @@
 # FPGA_feedforward-neural-network_for_qubit_discrimination
+This project can run on ZYNQ board (ARM+FPGA) with a linux system in ARM, (optional) acceleration process implemented with FPGA.\
 ```main.cpp```: main function to execute qubit discrimination test with C++ feedforward neural network. \
 to use: ```g++ -o main main.cpp```  & ```./main```
 
